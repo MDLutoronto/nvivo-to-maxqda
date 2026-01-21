@@ -1,13 +1,26 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Moving from NVivo to MAXQDA"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Moving from NVivo to MAXQDA
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+To move between qualitative data analysis tools, you must put your project file into [REFI\-QDA standard](https://www.qdasoftware.org/).
+
+Note that not everything is retained when exporting an NVivo project to this format. For example, PDF text coding is not exported. [Consult NVivo’s help pages for more details of what is retained and what is lost](https://help-nv.qsrinternational.com/15/win/Content/projects-teamwork/refi-qda%20standard.htm).
+
+To move an existing project from NVivo to MAXQDA:
+
+1. Export your project to QDPX format:
+
+    1. [NVivo for Windows instructions](https://help-nv.qsrinternational.com/15/win/Content/projects-teamwork/refi-qda%20standard.htm)
+    	2. [NVivo for Mac instructions](https://help-nv.qsrinternational.com/15/mac/Content/projects-teamwork/refi-qda%20standard.htm)
+2. Import your QDPX file into MAXQDA:
+
+    1. [Follow the import instructions](https://www.maxqda.com/help-mx24/report-and-export/export-and-import-refi-qda-projects) (this page also outlines what is retained and lost when moving into MAXQDA)
+
+For assistance, or to troubleshoot any issues, [contact us](https://mdl.library.utoronto.ca/about/contact).
+
+Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [MAXQDA](/tools/maxqda)**Date Created:** 2025\-08\-08**Updated:** 2025\-08\-15
