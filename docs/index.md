@@ -1,7 +1,7 @@
 ---
 title: "Moving from NVivo to MAXQDA"
 layout: "home"
-description: "To move between qualitative data analysis tools, you must put your project file into [REFI\-QDA standard](https://www.qdasoftware.org/)."
+description: "To move between qualitative data analysis tools, you must put your project file into [REFI-QDA standard](https://www.qdasoftware.org/)."
 permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Kelly Schultz
