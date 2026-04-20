@@ -30,4 +30,4 @@ To move an existing project from NVivo to MAXQDA:
 
 For assistance, or to troubleshoot any issues, [contact us](https://mdl.library.utoronto.ca/about/contact).
 
-**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo), [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo), [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
