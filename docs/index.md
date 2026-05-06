@@ -29,3 +29,5 @@ To move an existing project from NVivo to MAXQDA:
     1. [Follow the import instructions](https://www.maxqda.com/help-mx24/report-and-export/export-and-import-refi-qda-projects) (this page also outlines what is retained and lost when moving into MAXQDA)
 
 For assistance, or to troubleshoot any issues, [contact us](https://mdl.library.utoronto.ca/about/contact).
+
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo), [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
