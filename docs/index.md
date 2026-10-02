@@ -38,6 +38,6 @@ From a sample test, here were the results:
 * Memos, memo links, and annotations all transfer over, but as Free Memos, meaning that there's no link back to the associated file or associated text fragment (I would recommend that you put the file name in the memo link title to help with this association. Annotations will need to be recreated.)
 * All cases transfer over as codes and no case attributes are transferred over, just attribute names with blank information underneath (if you have your attributes stored in a spreadsheet, it would be a better idea to re-import this into MAXQDA as document variables than to try to fix the imported case data)
 
-For questions, help moving your project over, or to troubleshoot any issues, feel free to [contact us](https://mdl.library.utoronto.ca/about/contact).
+For questions, help moving your project over, or to troubleshoot any issues, feel free to [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
-**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo), [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo), [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
